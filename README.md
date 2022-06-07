@@ -1,6 +1,3 @@
-<h2>Hi there 👋</h2>
-
-
 <!-- **gurov-e/gurov-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,6 +17,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
-<h2 align="center">About me</h2>
+### About me
 
-🎓 I am currently studying in college with a degree in Information Systems and Programming
+<p>🎓 I'm currently studying in college with a degree in Information Systems and Programming.</p>
+<p>💻 I am beginner front-end developer.</p>
