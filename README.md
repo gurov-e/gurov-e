@@ -1,7 +1,7 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
-<!--
-**gurov-e/gurov-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **gurov-e/gurov-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
+
+<div>
+  <h1 align="center">Hi there, I'm <a href="https://vk.com/id175747978" target="_blank">Evgeniy</a>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+</div>
+
+<h2 align="center">About me</h2>
+
+🎓 I am currently studying in college with a degree in Information Systems and Programming
