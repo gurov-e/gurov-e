@@ -1,18 +1,3 @@
-<!-- **gurov-e/gurov-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
-
-
 <h1 align="center">Hi there, I'm <a href="https://vk.com/id175747978" target="_blank">Evgeniy</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -59,6 +44,7 @@ Here are some ideas to get you started:
   <h3 align="center">📫 How to reach me</h3>
   <p>
    <a href="https://vk.com/id175747978">
+    📌
      <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" width="40px">
    </a>
  </p>
