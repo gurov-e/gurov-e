@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://vk.com/id175747978" target="_blank">Evgeniy</a>
+<h1 align="center">Hi there, I'm <span>Evgeniy</span>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">🔍 About me</h3>
@@ -38,14 +38,4 @@
   <a href="https://laravel.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="60px">
   </a>
- </div>
- 
- <div>
-  <h3 align="center">📫 How to reach me</h3>
-  <p>
-   <a href="https://vk.com/id175747978">
-    📌
-     <img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" width="40px">
-   </a>
- </p>
 </div>
