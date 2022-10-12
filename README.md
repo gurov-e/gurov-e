@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <span>[![Что добавлено?](https://readme-typing-svg.herokuapp.com?color=#36BCF7&lines=Что+добавлено+?)](https://git.io/typing-svg)</span>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Hi there, I'm <span>[![Что добавлено?](https://readme-typing-svg.herokuapp.com?color=#36BCF7&lines=Что+добавлено+?)](https://git.io/typing-svg)
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 <h3 align="center">🔍 About me</h3>
 <p>📚 I'm currently studying in college with a degree in Information Systems and Programming.</p>
