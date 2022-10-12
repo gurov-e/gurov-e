@@ -1,4 +1,4 @@
-[![e-gurov?](https://readme-typing-svg.herokuapp.com?color=%00ffd0&lines=Hi,+I'm+Evgeniy+Gurov)](https://git.io/typing-svg)
+[![e-gurov?](https://readme-typing-svg.herokuapp.com?color=#00ffd0&lines=Hi,+I'm+Evgeniy+Gurov)](https://git.io/typing-svg)
 
 
 <h3 align="center">🔍 About me</h3>
