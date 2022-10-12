@@ -2,7 +2,6 @@
 
 
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 <h3 align="center">🔍 About me</h3>
 <p>📚 I'm currently studying in college with a degree in Information Systems and Programming.</p>
