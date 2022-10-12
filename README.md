@@ -1,4 +1,4 @@
-[![Что добавлено?](https://readme-typing-svg.herokuapp.com?color=#36BCF7&lines=Что+добавлено+?)](https://git.io/typing-svg)
+[![e-gurov?](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=hi+I+m+E+Gurov)](https://git.io/typing-svg)
 
 
 
