@@ -2,7 +2,7 @@
 
 
 <h3 align="center">🔍 About me</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurov-e&show_icons=true&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gurov-e&show_icons=true&theme=react)
 <p>📚 I'm currently studying in college with a degree in Information Systems and Programming.</p>
 <p>💻 I am beginner front-end developer.</p>
 
