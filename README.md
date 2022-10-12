@@ -1,8 +1,8 @@
 [![e-gurov?](https://readme-typing-svg.herokuapp.com?color=03a9f4&lines=Hi,+I'm+Evgeniy+Gurov)](https://git.io/typing-svg)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gurov-e&show_icons=true&theme=react)
 
 <h3 align="center">🔍 About me</h3>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gurov-e&show_icons=true&theme=react)
 <p>📚 I'm currently studying in college with a degree in Information Systems and Programming.</p>
 <p>💻 I am beginner front-end developer.</p>
 
