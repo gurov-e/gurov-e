@@ -6,7 +6,7 @@
 	<p></p>
 	🎓 I'm currently studying in college with a degree in Information Systems and Programming.
 	<br>
-	🔰 I'm beginner front-end developer.
+	🔰 I'm front-end developer.
 </div>
 
 <h3 align="center">🛠️ Tools, Skills and Languages</h3>
