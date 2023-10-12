@@ -3,8 +3,6 @@
 
 <div>
 	<h3 align="center">🔍 About me</h3>
-	<p></p>
-	🎓 I'm currently studying in college with a degree in Information Systems and Programming.
 	<br>
 	🔰 I'm front-end developer.
 </div>
